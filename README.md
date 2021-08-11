@@ -1,6 +1,6 @@
 ### Project from Next.js & Netlify Identity tutorial of [Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4g-0dAaMmFAyM6k3FmuZz).
 
-watch it live [here](https://sharp-brahmagupta-31d3ac.netlify.app/)
+watch it live [here](https://sharp-gaming-vibe.netlify.app/)
 
 ### Image Credit (for use in project)
 
